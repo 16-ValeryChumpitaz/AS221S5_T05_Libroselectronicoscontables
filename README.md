@@ -25,26 +25,26 @@ Este proyecto se centra en la elaboración de un club del libro electrónico con
 ## Estructura de Desglose del Trabajo (EDT) 😎
 La Estructura de Desglose del Trabajo (EDT) es utilizada para descomponer el proyecto en componentes manejables. A continuación, se detalla la EDT del proyecto:
 
-| **ID** | **Tarea**                               | **Descripción**                                                                                                                                                   | **Responsable**           |
-|--------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| 1      | Planificación del Proyecto              |                                                                                                                                                                   | Valery Chumpitaz          |
-| 1.1    | Definición del Alcance                  | Reunión con Stakeholders, Análisis de Requisitos, Documento de Alcance del Proyecto                                                                               | Valery Chumpitaz          |
-| 1.2    | Elaboración del Plan de Proyecto        | Cronograma del Proyecto, Presupuesto del Proyecto, Plan de Gestión de Riesgos                                                                                      | Jonathan Javier           |
-| 2      | Diseño del Sistema de Libros Electrónicos Contables |                                                                                                                                                                   | Omar                      |
-| 2.1    | Análisis de Sistemas Existentes         | Evaluación de Software Contable Actual, Identificación de Necesidades Adicionales                                                                                 | Omar                      |
-| 2.2    | Diseño de la Arquitectura del Sistema   | Diagrama de Arquitectura del Sistema, Selección de Tecnologías y Herramientas                                                                                     | Toshiro Inami             |
-| 3      | Desarrollo del Sistema                  |                                                                                                                                                                   | Jonathan Javier           |
-| 3.1    | Configuración del Entorno de Desarrollo | Instalación de Software Necesario, Configuración de Servidores y Bases de Datos                                                                                   | Jonathan Javier           |
-| 3.2    | Desarrollo de Funcionalidades           | Registro de Transacciones, Generación de Informes, Integración con la SUNAT                                                                                       | Omar                      |
-| 3.3    | Pruebas del Sistema                     | Pruebas Unitarias, Pruebas de Integración, Pruebas de Aceptación del Usuario                                                                                      | Valery Chumpitaz          |
-| 4      | Implementación y Despliegue             |                                                                                                                                                                   | Toshiro Inami             |
-| 4.1    | Plan de Implementación                  | Cronograma de Despliegue, Estrategia de Migración de Datos                                                                                                        | Toshiro Inami             |
-| 4.2    | Capacitación del Personal               | Desarrollo de Materiales de Capacitación, Sesiones de Capacitación                                                                                                | Valery Chumpitaz          |
-| 4.3    | Despliegue del Sistema                  | Instalación en Entorno de Producción, Verificación Post-Despliegue                                                                                                | Omar                      |
-| 5      | Monitoreo y Mantenimiento               |                                                                                                                                                                   | Jonathan Javier           |
-| 5.1    | Monitoreo del Sistema                   | Seguimiento del Rendimiento, Gestión de Incidencias                                                                                                               | Jonathan Javier           |
-| 5.2    | Actualizaciones y Mejoras               | Implementación de Mejoras Continuas, Actualización de Software                                                                                                    | Omar                      |
-| 5.3    | Soporte Técnico                         | Establecimiento de Canales de Soporte, Resolución de Problemas Técnicos                                                                                           | Toshiro Inami             |
+| **ID** | **Tarea**                               | **Descripción**                                                                                                                                                   |
+|--------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1      | Planificación del Proyecto              |                                                                                                                                                                   |
+| 1.1    | Definición del Alcance                  | Reunión con Stakeholders, Análisis de Requisitos, Documento de Alcance del Proyecto                                                                               |
+| 1.2    | Elaboración del Plan de Proyecto        | Cronograma del Proyecto, Presupuesto del Proyecto, Plan de Gestión de Riesgos                                                                                      |
+| 2      | Diseño del Sistema de Libros Electrónicos Contables |                                                                                                                                                                   |
+| 2.1    | Análisis de Sistemas Existentes         | Evaluación de Software Contable Actual, Identificación de Necesidades Adicionales                                                                                 |
+| 2.2    | Diseño de la Arquitectura del Sistema   | Diagrama de Arquitectura del Sistema, Selección de Tecnologías y Herramientas                                                                                     |
+| 3      | Desarrollo del Sistema                  |                                                                                                                                                                   |
+| 3.1    | Configuración del Entorno de Desarrollo | Instalación de Software Necesario, Configuración de Servidores y Bases de Datos                                                                                   |
+| 3.2    | Desarrollo de Funcionalidades           | Registro de Transacciones, Generación de Informes, Integración con la SUNAT                                                                                       |
+| 3.3    | Pruebas del Sistema                     | Pruebas Unitarias, Pruebas de Integración, Pruebas de Aceptación del Usuario                                                                                      |
+| 4      | Implementación y Despliegue             |                                                                                                                                                                   |
+| 4.1    | Plan de Implementación                  | Cronograma de Despliegue, Estrategia de Migración de Datos                                                                                                        |
+| 4.2    | Capacitación del Personal               | Desarrollo de Materiales de Capacitación, Sesiones de Capacitación                                                                                                |
+| 4.3    | Despliegue del Sistema                  | Instalación en Entorno de Producción, Verificación Post-Despliegue                                                                                                |
+| 5      | Monitoreo y Mantenimiento               |                                                                                                                                                                   |
+| 5.1    | Monitoreo del Sistema                   | Seguimiento del Rendimiento, Gestión de Incidencias                                                                                                               |
+| 5.2    | Actualizaciones y Mejoras               | Implementación de Mejoras Continuas, Actualización de Software                                                                                                    |
+| 5.3    | Soporte Técnico                         | Establecimiento de Canales de Soporte, Resolución de Problemas Técnicos                                                                                           |
 
 ## Beneficios del EDT/WBS en la Implementación
 - **Claridad y Organización:** Facilitan la comprensión y la organización del proyecto.
@@ -56,27 +56,31 @@ La Estructura de Desglose del Trabajo (EDT) es utilizada para descomponer el pro
 ## Tecnologías Utilizadas
 Para el desarrollo del CRUD (Create, Read, Update, Delete) de libros electrónicos contables, utilizaremos las siguientes tecnologías:
 
-### Frontend:🤖
+### Frontend: 🤖
 ![HTML](https://img.icons8.com/color/100/000000/html-5.png)
 ![CSS](https://img.icons8.com/color/100/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/100/000000/javascript.png)
 ![React](https://img.icons8.com/color/100/000000/react-native.png)
 
-### Backend:✨
+### Backend: ✨
 ![Node.js](https://img.icons8.com/color/100/000000/nodejs.png)
 ![Express.js](https://img.icons8.com/color/100/000000/express.png)
+![Spring Boot](https://img.icons8.com/color/100/000000/spring-logo.png)
+![Postman](https://img.icons8.com/dusk/100/000000/postman-api.png)
+![IntelliJ IDEA](https://img.icons8.com/color/100/000000/intellij-idea.png)
 
 ### Base de Datos:
 ![MongoDB](https://img.icons8.com/color/100/000000/mongodb.png)
+![Oracle](https://img.icons8.com/color/100/000000/oracle-logo.png)
+![PostgreSQL](https://img.icons8.com/color/100/000000/postgreesql.png)
 
 ### Control de Versiones:
 ![Git](https://img.icons8.com/color/100/000000/git.png)
 ![GitHub](https://img.icons8.com/material-outlined/100/000000/github.png)
 
-### Otras Herramientas:
-![Postman](https://img.icons8.com/dusk/100/000000/postman-api.png)
+### Otras Herramientas: 🚀
 ![Docker](https://img.icons8.com/color/100/000000/docker.png)
-![Jest](https://img.icons8.com/color/100/000000/jest.png)
+![Kubernetes](https://img.icons8.com/color/100/000000/kubernetes.png)
 
 ## Referencias 🎉
 1. Project Management Institute. (2017). [A guide to the project management body of knowledge (PMBOK guide) (6th ed.). Project Management Institute.](https://www.pmi.org/pmbok-guide-standards/foundational/pmbok)
@@ -90,4 +94,3 @@ Para el desarrollo del CRUD (Create, Read, Update, Delete) de libros electrónic
 - **Jonathan Javier**
 - **Omar Lopez**
 - **Toshiro Inami**
-
