@@ -63,14 +63,11 @@ Para el desarrollo del CRUD (Create, Read, Update, Delete) de libros electrónic
 ![React](https://img.icons8.com/color/100/000000/react-native.png)
 
 ### Backend: ✨
-![Node.js](https://img.icons8.com/color/100/000000/nodejs.png)
-![Express.js](https://img.icons8.com/color/100/000000/express.png)
 ![Spring Boot](https://img.icons8.com/color/100/000000/spring-logo.png)
 ![Postman](https://img.icons8.com/dusk/100/000000/postman-api.png)
 ![IntelliJ IDEA](https://img.icons8.com/color/100/000000/intellij-idea.png)
 
 ### Base de Datos:
-![MongoDB](https://img.icons8.com/color/100/000000/mongodb.png)
 ![Oracle](https://img.icons8.com/color/100/000000/oracle-logo.png)
 ![PostgreSQL](https://img.icons8.com/color/100/000000/postgreesql.png)
 
