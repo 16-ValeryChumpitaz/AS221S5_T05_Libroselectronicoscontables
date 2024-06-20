@@ -5,7 +5,6 @@ import { MatSort, Sort } from '@angular/material/sort';
 import { MatTableDataSource } from '@angular/material/table';
 import { BsModalRef, BsModalService, ModalOptions } from 'ngx-bootstrap/modal';
 import { ToastrService } from 'ngx-toastr';
-import { IUbigeo } from '../ubigeo/model/ubigeo.model';
 import { IUser } from './model/user.model';
 import { UserService } from './service/user.service';
 import { UserSaveComponent } from './components/user-save/user-save.component';
